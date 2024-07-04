@@ -25,6 +25,9 @@ header img {
 #phone {
     display: none;
 }
+.bar_menu {
+    display: none;
+}
 #green_circle {display: none;}
 .navigation {
     display: flex;
@@ -201,6 +204,7 @@ header img {
     }
     .bar_menu {
         margin-right: 32px;
+        display: block;
     }
     .navigation {display: none;}
     #phone {
